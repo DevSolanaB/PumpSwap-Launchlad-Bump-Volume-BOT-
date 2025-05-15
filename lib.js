@@ -7,7 +7,7 @@ export const SOL_ADDR = "So11111111111111111111111111111111111111112";
 export async function performSwap(swapResponse, keypair, connexion, amount, tokenIn,
                                   options = {
                                       sendOptions: {skipPreflight: true},
-                                      confirmationRetries: 30,
+                                      confirmationRetries: 30, //
                                       confirmationRetryTimeout: 1000,
                                       lastValidBlockHeightBuffer: 150,
                                       resendInterval: 1000,
