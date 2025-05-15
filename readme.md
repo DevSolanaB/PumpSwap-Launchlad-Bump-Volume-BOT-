@@ -132,4 +132,3 @@ DONTATION SOL : 8oHBLten4hH8BoRngqi9NaBkGE7E5hs9qtVSW4rQ4Mj9
 
 
 
-![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FBOT-web3%2FPump.Fun PumpSwapBumpBot&s=17&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
